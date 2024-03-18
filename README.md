@@ -39,7 +39,6 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
 ### Frontend  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux)](https://skillicons.dev)
@@ -52,7 +51,6 @@
 
 ### In progress 
 [![My Skills](https://skillicons.dev/icons?i=java,bootstrap,vue,mysql)](https://skillicons.dev)
-
 
 
 <br/>  
