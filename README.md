@@ -1,4 +1,4 @@
-
+Cuenta temporal, mi cuenta principal permanece bloqueada | Temporary account, my main account remains locked
 <div align="center">
 <img src="https://d2a5isokysfowx.cloudfront.net/wp-content/uploads/2022/01/Programa-con-R-scaled.jpg" align="center" style="width: 100%" />
 </div>  
