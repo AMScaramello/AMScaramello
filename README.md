@@ -60,7 +60,7 @@ Cuenta temporal, mi cuenta principal permanece bloqueada | Temporary account, my
 <br/>    
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AMScaramello" alt="AMScaramello" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AMScaramello&theme=onedark" alt="AMScaramello" /></a> </p>
 <hr>
   
 
